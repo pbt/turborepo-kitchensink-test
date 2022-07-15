@@ -3,7 +3,7 @@ import { CounterButton, NewTabLink } from "ui";
 
 export default function Store() {
   log("Hey! This is Home.");
-  return 
+  return (
     <div>
       <h1>Store</h1>
       <CounterButton />
